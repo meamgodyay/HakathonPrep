@@ -7,6 +7,7 @@ dictionary = PyDictionary()
 final_answer = []
 list_module = []
 
+print("Hello")
 word = str(input("Please enter the word you would like to check for anagrams\n")).lower()
 word_module = list(word)
 
